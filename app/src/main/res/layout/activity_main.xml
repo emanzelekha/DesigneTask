@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layoutDirection="rtl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".UI.Activites.MyListHelp">
+
+    <FrameLayout
+        android:id="@+id/MyListHelp_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="@color/colorPrimary"
+        android:padding="@dimen/margin_medium">
+
+        <ImageView
+            android:id="@+id/MyListHelp_add_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical|start"
+            android:adjustViewBounds="true"
+            android:src="@drawable/my_list_help_accepted_nav_add" />
+
+        <ImageView
+            android:id="@+id/MyListHelp_back_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical|end"
+            android:adjustViewBounds="true"
+            android:src="@drawable/my_list_help_accepted_back" />
+
+
+        <android.support.design.widget.TabLayout
+            app:tabTextAppearance="@style/customfontstyle"
+            app:tabBackground="@drawable/tab_colors"
+            android:id="@+id/MyListHelp_parent_tabs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/tab_bg"
+            app:tabIndicatorHeight="0dp"
+            app:tabGravity="center"
+            app:tabMode="fixed" />
+
+    </FrameLayout>
+
+    <com.duolingo.open.rtlviewpager.RtlViewPager
+        android:id="@+id/MyListHelp_parent_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

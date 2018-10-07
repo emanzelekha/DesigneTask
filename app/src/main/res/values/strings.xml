@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">DesigneTask</string>
+    <string name="some_error">Some Error Occurred!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="calling">  فزعاتى  </string>
+    <string name="other">  اﻻخرين  </string>
+    <string name="cancel">إلغاء</string>
+
+    <string name="waiting">اﻻنتظار</string>
+    <string name="accept">تم القبول</string>
+    <string name="reject">تم الرفض</string>
+
+
+    <string-array name="Help_title_waite">
+        <item> اريد حد يساعدنى  </item>
+        <item> اريد توصيلة  </item>
+        <item> يدى حدا يذهب معى الى المول </item>
+        <item> عندى عزيمة كبيرة وبدى حدا يساعدنى  </item>
+        <item> اريد حدا يقعد مع اوﻻدى لمدة 3 ساعات </item>
+    </string-array>
+
+    <string-array name="Help_title_cancel">
+        <item> عندى عزيمة كبيرة وبدى حدا يساعدنى  </item>
+        <item> اريد حدا يقعد مع اوﻻدى لمدة 3 ساعات </item>
+        <item> اريد حد يساعدنى  </item>
+        <item> يدى حدا يذهب معى الى المول </item>
+    </string-array>
+
+
+    <string-array name="Help_title_accepted">
+        <item> اريد حدا يقعد مع اوﻻدى لمدة 3 ساعات </item>
+        <item> يدى حدا يذهب معى الى المول </item>
+    </string-array>
+
+
+    <string-array name="Help_title_waite_time">
+        <item>5:0ا </item>
+        <item> 12:00  </item>
+        <item> 07:40 </item>
+        <item> 11:40  </item>
+        <item> 01:22 </item>
+    </string-array>
+
+    <string-array name="Help_title_cancel_time">
+        <item>5:0ا </item>
+        <item> 12:00  </item>
+        <item> 07:40 </item>
+        <item> 11:40  </item>
+    </string-array>
+
+    <string-array name="Help_title_accepted_time">
+        <item> 07:40 </item>
+        <item> 11:40  </item>
+    </string-array>
+
+
+    <string-array name="Help_title_waite_type">
+        <item>رجال</item>
+        <item> نساء </item>
+        <item> نساء </item>
+        <item> نساء  </item>
+        <item> رجال </item>
+    </string-array>
+
+    <string-array name="Help_title_cancel_type">
+        <item>رجال </item>
+        <item> رجال  </item>
+        <item> نساء </item>
+        <item> نساء </item>
+    </string-array>
+
+    <string-array name="Help_title_accepted_type">
+        <item> رجال </item>
+        <item> رجال  </item>
+    </string-array>
+
+
+    <string-array name="Help_title_waite_info">
+        <item>فزعة اكل</item>
+        <item> فزعة تسوق </item>
+        <item> فزعة سيارة </item>
+        <item> فزعة اكل  </item>
+        <item>فزعة هرب </item>
+    </string-array>
+
+    <string-array name="Help_title_cancel_info">
+        <item> فزعة تسوق </item>
+        <item> فزعة سيارة </item>
+        <item> فزعة اكل  </item>
+        <item>فزعة هرب </item>
+    </string-array>
+
+    <string-array name="Help_title_accepted_info">
+        <item> فزعة اكل  </item>
+        <item>فزعة هرب </item>
+    </string-array>
+</resources>

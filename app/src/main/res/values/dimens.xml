@@ -1,0 +1,41 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16sp</dimen>
+    <dimen name="activity_vertical_margin">16sp</dimen>
+    <dimen name="nav_header_vertical_spacing">8sp</dimen>
+    <dimen name="nav_header_height">176sp</dimen>
+    <dimen name="fab_margin">16sp</dimen>
+    <dimen name="nav_font">16sp</dimen>
+    <dimen name="nav_padding">10sp</dimen>
+    <dimen name="header_font">24sp</dimen>
+    <dimen name="splash_font">18sp</dimen>
+    <dimen name="pager_margin">-30dp</dimen>
+    <!-- Text size -->
+    <dimen name="text_tiny_small">6sp</dimen>
+    <dimen name="text_tiny">8sp</dimen>
+    <dimen name="text_tiny_plus">10sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_normal">14sp</dimen>
+    <dimen name="text_normal_plus">15sp</dimen>
+    <dimen name="text_medium">16sp</dimen>
+    <dimen name="text_large">18sp</dimen>
+    <dimen name="text_large_plus">20sp</dimen>
+    <dimen name="text_large_extra">22sp</dimen>
+    <dimen name="text_huge">36sp</dimen>
+    <dimen name="text_huge_plus">42sp</dimen>
+
+
+    <dimen name="margin_nano">2dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="margin_tiny_plus">6dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_small_plus">10dp</dimen>
+    <dimen name="margin_medium">14dp</dimen>
+    <dimen name="margin_medium_plus">18dp</dimen>
+    <dimen name="margin_simi_medium">22dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_extra_large">38dp</dimen>
+    <dimen name="margin_large_plus">48dp</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_huge_plus">72dp</dimen>
+</resources>
